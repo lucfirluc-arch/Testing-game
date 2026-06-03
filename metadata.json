@@ -1,0 +1,6 @@
+{
+  "name": "Startup Tycoon",
+  "description": "A premium passive business simulation game with offline progression, time-based upgrades, bank loans, and random market events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
